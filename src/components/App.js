@@ -10,7 +10,6 @@ class App extends Component {
                 <ol key="relativeList">
                     <li key="relativeListItem1">Kakammaa Gowda</li>
                     <li key="relativeListItem1">Anusha Gowda</li>
-                    <li></li>
                 </ol>
             </div>
         )
